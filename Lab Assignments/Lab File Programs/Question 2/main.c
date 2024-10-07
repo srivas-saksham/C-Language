@@ -1,5 +1,5 @@
+// WAP to study variables and constants of int and float data types
 #include <stdio.h>
-
 int main() {
     // Declaring and initializing integer variables
     int intVar1 = 10;
