@@ -1,4 +1,4 @@
-//WAP to compute xn using while statement
+//WAP to compute x^n using while statement
 #include <stdio.h>
 int main() {
     double x;

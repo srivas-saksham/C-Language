@@ -3,7 +3,7 @@
 int main(){
     printf("Program to Find Prime Numbers \n");
     int n, i, j, p;
-    printf("Enter the number up to which you want to find prime numbers: ");
+    printf("Enter Number to Check: ");
     scanf("%d", &n);
     if(n == 2){
         printf("2 is a Prime Number.");

@@ -9,7 +9,7 @@ int main(){
     printf("Program to Loop Printing a Character\n");
     int n;
     char ch;
-    printf("Enter the String: ");
+    printf("Enter a Character: ");
     scanf(" %c", &ch);
     printf("Enter Number of times to Print: ");
     scanf("%d", &n);

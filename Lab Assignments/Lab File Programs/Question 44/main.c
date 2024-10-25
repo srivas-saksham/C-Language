@@ -34,7 +34,7 @@ int main() {
     max = maximum(n, arr);
     min = minimum(n, arr);
     printf("Max Number in Array is %d\n", max);
-    printf("Max Number in Array is %d\n", min);
+    printf("Min Number in Array is %d\n", min);
 
     return 0;
 }
