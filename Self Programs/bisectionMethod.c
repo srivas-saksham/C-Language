@@ -3,7 +3,7 @@
 #include<math.h>
 
 double f( double x){
-    return 3*x - sqrt(1+sin(x)); // change equation here-----------------------------------------------------------------------------------------
+    return 3*(x*x*x) + 8*(x*x) + 8*x - 5; // change equation here-----------------------------------------------------------------------------------------
 }
 void bisection(double rng, int iterNo){
     printf("iterNo is %d\n", iterNo);
