@@ -13,7 +13,7 @@ int main(){
     }
 
     for(i=0;i<len;i++){
-        sum += *ptr+i;
+        sum += *(ptr+i);
     }
     printf("Sum of Elements of Array is %d", sum);
     return 0;

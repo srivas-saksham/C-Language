@@ -1,5 +1,5 @@
+//Program to Enter Book Records using Structure
 #include <stdio.h>
-#include <string.h>
 //Defining a Stucture
 struct Book {
     char title[100];
